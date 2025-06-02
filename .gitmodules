@@ -1,0 +1,3 @@
+[submodule "submodules/8dobibim"]
+	path = submodules/8dobibim
+	url = https://github.com/mini-777/8dobibim.git
