@@ -28,7 +28,7 @@
 
 - 📖 프로젝트 구조 및 파일 설명
 - 📘 OpenWebUI 소개 및 원리
-- [🔗 공식 OpenWebUI 리소스 링크](https://github.com/open-webui/open-webui)
+- [🔗 공식 OpenWebUI 리소스 링크](docs/OpenWebUI_공식_리소스.md)
 
 ### 🎨 프론트엔드 커스터마이징
 
