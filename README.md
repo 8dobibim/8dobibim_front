@@ -8,7 +8,7 @@
 ## 📋 기본 정보  
 - [🧾 프로젝트 개요 및 구조] 
 - [📖 Open WebUI 소개 및 주요 기능]
-- [🔗 Open WebUI 공식 GitHub 안내]
+- [🔗 Open WebUI 공식 리소스](docs/OpenWebUI_공식_리소스.md)
 
 ## 🎯 커스터마이징 작업  
 - [🈺 한국어 현지화 및 번역 개선 가이드]
