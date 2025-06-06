@@ -18,7 +18,7 @@
           → [OpenWebUI v0.6.10에 release 완료](https://github.com/open-webui/open-webui/releases/tag/v0.6.10)
           
     - **웹 접근성 개선**
-        - WCAG AAA 기준을 충족하는 **고명도 대비 다크 테마**(👁️ColorBlind👁️) 신규 설계 및 적용
+        - WCAG AAA 기준을 충족하는 **고명도 대비 다크 테마**(ColorBlind👁️) 신규 설계 및 적용
         - 색상 대비 7:1 이상 확보 및 색약 대응을 고려하여 시각적 피로도 최소화
         - [명도 분석 및 접근성 검증 시뮬레이션 도구 사용](https://accessibleweb.com/color-contrast-checker/)
 
@@ -35,7 +35,7 @@
 ### 🎨 프론트엔드 커스터마이징
 
 - [🈺 한국어 현지화 및 번역 품질 개선](docs/한국어_현지화_및_품질개선.md)
-- ♿ 고명도 대비 다크 테마(Colorblind Theme) 설계 및 적용 가이드
+- [👁️ 고명도 대비 다크 테마(Colorblind Theme) 설계 및 적용 가이드]()
 
 ### ⚙️ 운영 환경 구성
 
