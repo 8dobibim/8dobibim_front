@@ -12,7 +12,9 @@
 - **주요 작업 및 성과:**
     - **한국어 현지화 개선**
         - 미번역/부자연스러운 번역을 교정하고, `ko.json` 기반 번역 체계를 정비
-        - 번역 품질 개선 작업을 PR로 제출 → [공식 OpenWebUI 레포에 Merge 승인됨](https://github.com/open-webui/open-webui/pull/13929)
+        - 번역 품질 개선 작업을 PR로 제출
+          → [공식 OpenWebUI 레포지토리에 Merge 승인](https://github.com/open-webui/open-webui/pull/13929)
+          → [OpenWebUI v0.6.10에 release 완료](https://github.com/open-webui/open-webui/releases/tag/v0.6.10)
     - **웹 접근성 개선**
         - WCAG AAA 기준을 충족하는 **고명도 대비 다크 테마**(👁️ColorBlind👁️) 신규 설계 및 적용
         - 색상 대비 7:1 이상 확보 및 색약 대응을 고려하여 시각적 피로도 최소화
@@ -25,7 +27,7 @@
 ### 📋 기본 개요
 
 - 📖 프로젝트 구조 및 파일 설명
-- 📘 OpenWebUI 소개 및 원리
+- 📘 OpenWebUI를 프론트엔드 기반으로 선택한 이유
 - [🔗 공식 OpenWebUI 리소스 링크](docs/OpenWebUI_공식_리소스.md)
 
 ### 🎨 프론트엔드 커스터마이징
