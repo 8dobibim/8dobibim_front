@@ -28,8 +28,8 @@
 
 ### 📋 기본 개요
 
-- 📖 OpenWebUI란?
-- 📘 OpenWebUI를 프론트엔드 기반으로 선택한 배경
+- [📖 OpenWebUI란?]()
+- [📘 OpenWebUI를 프론트엔드 기반으로 선택한 배경]()
 - [🔗 공식 OpenWebUI 리소스 링크](docs/OpenWebUI_공식_리소스.md)
 
 ### 🎨 프론트엔드 커스터마이징
